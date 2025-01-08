@@ -1,4 +1,4 @@
-📍 Visit webpage at Github Pages - 
+📍 Visit webpage at Github Pages - https://preetikaprakash.github.io/MiniProject-4-HiddenSearchWidget/
 
 **Screenshot of the webpage**
 
